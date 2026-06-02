@@ -18,3 +18,12 @@ Python, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
 
 ## Dataset
 Kaggle — Credit Card Fraud Detection (MLG-ULB)
+
+## Live Demo
+
+[Open Web App](https://credit-card-fraud-detection.streamlit.app)
+
+## Application Preview
+
+![App Screenshot](screenshot1.png)
+![App Screenshot](screenshot2.png)
